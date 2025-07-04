@@ -1,4 +1,4 @@
-## Hi there 👋 I'm K.Manish
+## Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kanyaboyina Manish .
 <br>🌱 I’m pursuing btech final year (CSE-AIML)<br>🌍  I'm based in Hyderabad ---> Telangana ---> India<br>✉️  You can contact me at manishmudhiraj1903@gmail.com<br>🤝  I'm open to collaborating on AI Projects<br>
 
 
@@ -15,7 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=manishmudhirah1314&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
--->
+
